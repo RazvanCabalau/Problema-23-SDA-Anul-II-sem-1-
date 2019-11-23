@@ -1,0 +1,2 @@
+Primiti vectorul: 8 5 3 9 2 1 7 6. 
+Faceti din acest vector un min-ansamblu folosind un numar minim de operatii si demonstrati complexitatea.
